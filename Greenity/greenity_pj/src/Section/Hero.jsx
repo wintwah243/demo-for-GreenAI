@@ -35,7 +35,7 @@ const LandingHero = () => {
                 <div className="w-full max-w-2xl text-center mb-8 px-2">
                     <h1 className="text-3xl sm:text-4xl font-bold mb-4">Get your <span className='text-green-600'>Guidelines</span> Here.</h1>
                     <p className="text-base sm:text-lg text-gray-600">
-                        GreenAI empowers individuals to transform complex visions into structured, actionable guidelines.
+                        Note: You can not generate your guideline now. This is just a prototype to help our project to be more understandable.
                     </p>
                 </div>
 
