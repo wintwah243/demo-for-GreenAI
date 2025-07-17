@@ -59,7 +59,7 @@ const LandingHero = () => {
                 {/* Demo Roadmap */}
                 <div className="w-full max-w-4xl px-2 sm:px-6">
                     <div className="flex flex-col sm:flex-row items-center justify-between mb-8 gap-4">
-                        <h2 className="text-2xl sm:text-3xl font-bold text-green-600 text-center sm:text-left">Example Roadmap</h2>
+                        <h2 className="text-2xl sm:text-3xl font-bold text-green-600 text-center sm:text-left">Example GuideLine</h2>
                         {/* <button
                             onClick={() => navigate('/signup')}
                             className="bg-indigo-500 hover:bg-indigo-600 text-white py-2 px-5 sm:px-6 rounded-full font-semibold text-sm sm:text-base transition duration-300 whitespace-nowrap"
