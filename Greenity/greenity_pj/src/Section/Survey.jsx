@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import Navbar from '../Layout/Navbar';
 import LandingFooter from '../Layout/Footer';
 
-// 🖼️ Example survey data
 const surveyGallery = [
     {
         image: '/major_data.png',
