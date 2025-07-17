@@ -86,7 +86,7 @@ const LandingAboutus = () => {
 
 <section className="py-20 bg-white">
   <div className="container mx-auto px-6">
-    <h2 className="text-3xl font-bold text-gray-800 mb-10 text-center">Model Evaluation</h2>
+    <h2 className="text-3xl font-bold text-gray-800 mb-10 text-center">Model Evaluation Using Logistic Regression</h2>
     <div className="grid md:grid-cols-2 gap-8">
       <div className="flex flex-col items-center">
         <img src={pca_graph} alt="Classification Report" className="rounded-lg shadow-md" />
