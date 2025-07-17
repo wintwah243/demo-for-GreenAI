@@ -2,22 +2,27 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import Navbar from '../Layout/Navbar';
 import LandingFooter from '../Layout/Footer';
+import major from '../assets/images/major_data.png'
+import past_activity from '../assets/images/past_activity.png'
+import challenges from '../assets/images/challenges.png'
+import feature from '../assets/images/feature.png'
+
 
 const surveyGallery = [
     {
-        image: '/major_data.png',
+        image: major,
         caption: 'Survey with students from different universities to know their major profession.',
     },
     {
-        image: '/past_activity.png',
+        image: past_activity,
         caption: 'Survey data about their past activities related to community development.',
     },
     {
-        image: '/challenges.png',
+        image: challenges,
         caption: 'Survey data about their challenges related to community development.',
     },
     {
-        image: '/feature.png',
+        image: feature,
         caption: 'Survey data about what functionality should include in GreenAI.',
     },
 ];
