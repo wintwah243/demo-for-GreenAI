@@ -6,19 +6,19 @@ import LandingFooter from '../Layout/Footer';
 // 🖼️ Example survey data
 const surveyGallery = [
     {
-        image: 'public/major_data.png',
+        image: '/major_data.png',
         caption: 'Survey with students from different universities to know their major profession.',
     },
     {
-        image: 'public/past_activity.png',
+        image: '/past_activity.png',
         caption: 'Survey data about their past activities related to community development.',
     },
     {
-        image: 'public/challenges.png',
+        image: '/challenges.png',
         caption: 'Survey data about their challenges related to community development.',
     },
     {
-        image: 'public/feature.png',
+        image: '/feature.png',
         caption: 'Survey data about what functionality should include in GreenAI.',
     },
 ];
