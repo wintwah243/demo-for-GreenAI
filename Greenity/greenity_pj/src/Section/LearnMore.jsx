@@ -28,7 +28,7 @@ const LandingLearnMore = () => {
                     </motion.p>
                 </div>
 
-                {/* 📝 Survey Introduction */}
+                {/* Survey Introduction */}
                 <motion.div
                     className="bg-gray-100 p-6 rounded-xl text-center shadow mb-16 max-w-3xl mx-auto"
                     initial={{ opacity: 0, y: 20 }}
@@ -48,7 +48,7 @@ const LandingLearnMore = () => {
                     </Link>
                 </motion.div>
 
-                {/* 🎯 Mission Section */}
+                {/* Mission Section */}
                 <motion.div
                     className="mt-20 bg-blue-50 p-10 rounded-xl text-center shadow-inner"
                     initial={{ opacity: 0 }}
